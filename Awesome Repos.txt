@@ -1,6 +1,6 @@
 https://github.com/iddoeldor/frida-snippets
 
-https://awakened1712.github.io/hacking/hacking-frida/
+https://gitlab.com/roxanagogonea/frida-scripts
 
 https://github.com/shivang1989/andromeda
 
@@ -9,5 +9,9 @@ https://github.com/Nightbringer21/fridump
 https://github.com/nowsecure/r2frida
 
 https://github.com/Areizen/JNI-Frida-Hook
+
+https://github.com/11x256/frida-android-examples
+
+https://awakened1712.github.io/hacking/hacking-frida/
 
 https://zhiwei.li/text/2016/02/18/frida%E6%B3%A8%E5%85%A5android-native-library/
