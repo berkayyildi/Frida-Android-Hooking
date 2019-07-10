@@ -18,3 +18,5 @@ https://github.com/11x256/frida-android-examples
 https://awakened1712.github.io/hacking/hacking-frida/
 
 https://zhiwei.li/text/2016/02/18/frida%E6%B3%A8%E5%85%A5android-native-library/
+
+https://codeshare.frida.re/@dzonerzy/hashinfo/
