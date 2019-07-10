@@ -20,3 +20,6 @@ https://awakened1712.github.io/hacking/hacking-frida/
 https://zhiwei.li/text/2016/02/18/frida%E6%B3%A8%E5%85%A5android-native-library/
 
 https://codeshare.frida.re/@dzonerzy/hashinfo/
+
+hookalloverloads.js
+https://gist.github.com/FrankSpierings/6e2608e22121b1aeaaa4588f13387dde
