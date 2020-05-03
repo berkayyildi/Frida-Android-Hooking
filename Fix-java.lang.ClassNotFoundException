@@ -1,0 +1,11 @@
+setTimeout(function() { // avoid java.lang.ClassNotFoundException
+
+	Java.performNow(function() {
+
+
+  //YOUR CODE HERE
+  //Class ın yüklenmesi için zaman tanır ms değerini 0 tan arttırarak zamanı değiştirebilirsiniz.
+
+
+	});
+}, 1000);
