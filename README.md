@@ -1,5 +1,5 @@
-# Frida-Android-Hooking
-Some Snippets for Frida
+# Frida-Android-Hooking Scripts
+Frida için Hook Scriptleri
 
 https://github.com/iddoeldor/frida-snippets
 
@@ -23,3 +23,9 @@ https://codeshare.frida.re/@dzonerzy/hashinfo/
 
 hookalloverloads.js
 https://gist.github.com/FrankSpierings/6e2608e22121b1aeaaa4588f13387dde
+
+## Kripto için scriptler
+
+https://github.com/wkunzhi/FridaHookSysAPI
+
+https://11x256.github.io/Frida-hooking-android-part-5/ (AES Encript Decrypt Hook)
