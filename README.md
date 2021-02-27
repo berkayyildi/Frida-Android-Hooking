@@ -29,3 +29,9 @@ https://gist.github.com/FrankSpierings/6e2608e22121b1aeaaa4588f13387dde
 https://github.com/wkunzhi/FridaHookSysAPI
 
 https://11x256.github.io/Frida-hooking-android-part-5/ (AES Encript Decrypt Hook)
+
+## Case Specifix Fix
+
+Obfuscated uygulamalar için overload edilmiş fonksiyonları hook etme
+
+https://stackoverflow.com/questions/61228167/frida-calling-a-specific-method-overload
